@@ -1,0 +1,13 @@
+/Users/frank/IdeaProjects/Jobs/src/main/java/com/laioffer/job/entity/Extraction.java
+/Users/frank/IdeaProjects/Jobs/src/main/java/com/laioffer/job/entity/ExampleCoordinates.java
+/Users/frank/IdeaProjects/Jobs/src/main/java/com/laioffer/job/external/GitHubClient.java
+/Users/frank/IdeaProjects/Jobs/src/main/java/com/laioffer/job/external/MonkeyLearnClient.java
+/Users/frank/IdeaProjects/Jobs/src/main/java/com/laioffer/job/entity/ExampleJob.java
+/Users/frank/IdeaProjects/Jobs/src/main/java/com/laioffer/job/entity/ExtractResponseItem.java
+/Users/frank/IdeaProjects/Jobs/src/main/java/com/laioffer/job/entity/ExtractRequestBody.java
+/Users/frank/IdeaProjects/Jobs/src/main/java/com/laioffer/job/servlet/SearchServlet.java
+/Users/frank/IdeaProjects/Jobs/src/main/java/com/laioffer/job/servlet/TestServlet.java
+/Users/frank/IdeaProjects/Jobs/src/main/java/com/laioffer/job/servlet/ExampleJobServlet.java
+/Users/frank/IdeaProjects/Jobs/src/main/java/com/laioffer/job/servlet/RecommendationServlet.java
+/Users/frank/IdeaProjects/Jobs/src/main/java/com/laioffer/job/servlet/ExampleBookServlet.java
+/Users/frank/IdeaProjects/Jobs/src/main/java/com/laioffer/job/entity/Item.java
